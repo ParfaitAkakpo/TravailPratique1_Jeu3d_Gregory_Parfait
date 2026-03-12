@@ -1,0 +1,598 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.2/respin/6000.2.8f1-e4064264ae96' branch; Version is '6000.2.8f1 (c9992ac36c34) revision 13211946'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-parfa" at "2026-03-12T16:13:20.0373097Z"
+OS: 'Windows 11  (10.0.26200) 64bit Education' Language: 'fr' Physical Memory: 32394 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2026-03-12T16:13:20Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.2.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/parfa/Documents/Hiver 2026/Jeu Videos/IreneeParfaitAkakpo__JeuDeRecherche/JeuDFeRecherche
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+52622
+-licensingIpc
+LicenseClient-parfa
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/parfa/Documents/Hiver 2026/Jeu Videos/IreneeParfaitAkakpo__JeuDeRecherche/JeuDFeRecherche
+C:/Users/parfa/Documents/Hiver 2026/Jeu Videos/IreneeParfaitAkakpo__JeuDeRecherche/JeuDFeRecherche
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [32812]  Target information:
+
+Player connection [32812]  * "[IP] 10.0.192.165 [Port] 0 [Flags] 2 [Guid] 221221147 [EditorId] 221221147 [Version] 1048832 [Id] WindowsEditor(7,ThePerfect) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [32812] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [32812] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 16956, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              3c3c975bb704443cb4c1b8cb74ae63ba
+  Correlation Id:          dac60e24bc58e48b370f46f561b3d180
+  External correlation Id: 8535563784191755646
+  Machine Id:              1wa11qy/yJqIw5Q/ZDaTuaXL3xs=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-parfa" (connect: 0.00s, validation: 0.01s, handshake: 0.21s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-parfa-notifications" at "2026-03-12T16:13:20.2575552Z"
+[Licensing::Module] Licensing Background thread has ended after 0.22s
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 340.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.2.8f1 (c9992ac36c34)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/parfa/Documents/Hiver 2026/Jeu Videos/IreneeParfaitAkakpo__JeuDeRecherche/JeuDFeRecherche/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 6GB Laptop GPU (ID=0x25ac)
+    Vendor:   NVIDIA
+    VRAM:     6002 MB
+    Driver:   32.0.15.8183
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56640
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001675 seconds.
+- Loaded All Assemblies, in  1.352 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.394 seconds
+Domain Reload Profiling: 1745ms
+	BeginReloadAssembly (136ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (372ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (786ms)
+		LoadAssemblies (134ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (783ms)
+			TypeCache.Refresh (781ms)
+				TypeCache.ScanAssembly (768ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (395ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (351ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (54ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (79ms)
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 3574351673010-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.783 seconds
+Refreshing native plugins compatible for Editor in 5.13 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 6.02 ms, found 3 plugins.
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.725 seconds
+Domain Reload Profiling: 1505ms
+	BeginReloadAssembly (169ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (536ms)
+		LoadAssemblies (380ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (245ms)
+			TypeCache.Refresh (172ms)
+				TypeCache.ScanAssembly (156ms)
+			BuildScriptInfoCaches (65ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (725ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (622ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (114ms)
+			ProcessInitializeOnLoadAttributes (356ms)
+			ProcessInitializeOnLoadMethodAttributes (143ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 8.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5053 unused Assets / (1.4 MB). Loaded Objects now: 5532.
+Memory consumption went from 92.5 MB to 91.1 MB.
+Total: 16.653600 ms (FindLiveObjects: 0.943700 ms CreateObjectMapping: 0.340600 ms MarkObjects: 13.723000 ms  DeleteObjects: 1.635700 ms)
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.042 seconds
+Refreshing native plugins compatible for Editor in 8.30 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.276 seconds
+Domain Reload Profiling: 2318ms
+	BeginReloadAssembly (282ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (65ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (651ms)
+		LoadAssemblies (508ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (278ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (255ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1277ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1076ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (185ms)
+			ProcessInitializeOnLoadAttributes (606ms)
+			ProcessInitializeOnLoadMethodAttributes (265ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Refreshing native plugins compatible for Editor in 22.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5051 unused Assets / (1.1 MB). Loaded Objects now: 5533.
+Memory consumption went from 92.4 MB to 91.3 MB.
+Total: 18.714600 ms (FindLiveObjects: 0.506200 ms CreateObjectMapping: 0.469500 ms MarkObjects: 15.897800 ms  DeleteObjects: 1.838900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 27006.393586 seconds.
+  path: Assets/PlaygroundApocalypse/Ground/Textures/T_Ground_Gravel_N.png
+  artifactKey: Guid(abc00000000013005861988393826697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Ground/Textures/T_Ground_Gravel_N.png using Guid(abc00000000013005861988393826697) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d3d74c6feb8b8517c31ba78a4c57f88') in 0.1092743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.005941 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_Benchstreet.mat
+  artifactKey: Guid(abc00000000013590320791865940619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_Benchstreet.mat using Guid(abc00000000013590320791865940619) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8130087b4223e6de6a2b057b722f158') in 0.171352 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_PlasticBottle_d.mat
+  artifactKey: Guid(abc00000000017268566007239260853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_PlasticBottle_d.mat using Guid(abc00000000017268566007239260853) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5ddb7732ae067cdd7dc7d4145d8099fc') in 0.0759549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_Shovel.mat
+  artifactKey: Guid(abc00000000013265127803024603317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_Shovel.mat using Guid(abc00000000013265127803024603317) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4215674f4e7773cefc9279d68b3c1df8') in 0.1216684 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_Swingset.mat
+  artifactKey: Guid(abc00000000002317298362400155624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_Swingset.mat using Guid(abc00000000002317298362400155624) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51639708139b0d396bbe1aa9dc2bac39') in 0.0786678 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_WheelBarrow.mat
+  artifactKey: Guid(abc00000000011155692939066337850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_WheelBarrow.mat using Guid(abc00000000011155692939066337850) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1562c4b427e83835b68eb70001507214') in 0.0915283 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_Slide.mat
+  artifactKey: Guid(abc00000000011833766016800774195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_Slide.mat using Guid(abc00000000011833766016800774195) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5460fbdbdb8b75ff2c9b07603206d9b4') in 0.0773316 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_Seesaw.mat
+  artifactKey: Guid(abc00000000016956846517437999946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_Seesaw.mat using Guid(abc00000000016956846517437999946) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd01d605a5f15d9de410abc257fdd7a21') in 0.0769828 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_TrashBag.mat
+  artifactKey: Guid(abc00000000011291479843153977166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_TrashBag.mat using Guid(abc00000000011291479843153977166) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '059ca6b025734facd6842f2882b12d40') in 0.106374 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_playset_002.mat
+  artifactKey: Guid(abc00000000016276702768807976057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_playset_002.mat using Guid(abc00000000016276702768807976057) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '155e2789359c24e1b7c392bf85468409') in 0.0389396 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_TrashCan.mat
+  artifactKey: Guid(abc00000000003337497073662228050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_TrashCan.mat using Guid(abc00000000003337497073662228050) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4b216a80c908c56ba07fd503ecdeafb') in 0.1584788 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_Sandbag_01.mat
+  artifactKey: Guid(abc00000000001268207371070360672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_Sandbag_01.mat using Guid(abc00000000001268207371070360672) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb6fa57fb21bf14c31bba274920d7eb5') in 0.0601035 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_PlasticBottle_b.mat
+  artifactKey: Guid(abc00000000002517249582071143943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_PlasticBottle_b.mat using Guid(abc00000000002517249582071143943) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4b43ee0e5e67eba599e503e288403ff') in 0.046491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_Firewood_c.mat
+  artifactKey: Guid(abc00000000013150481191379128625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_Firewood_c.mat using Guid(abc00000000013150481191379128625) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bb9efc18a5474742918703062435fe69') in 0.071794 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_PlasticBottle_a.mat
+  artifactKey: Guid(abc00000000011940766797620640246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_PlasticBottle_a.mat using Guid(abc00000000011940766797620640246) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae944f410b766728d1249322c838bc1a') in 0.0727805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PlaygroundApocalypse/Materials/M_CratesBottle.mat
+  artifactKey: Guid(abc00000000012631580716531973550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Materials/M_CratesBottle.mat using Guid(abc00000000012631580716531973550) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a69f42195ac887c551b9b7faf806a7c3') in 0.1466014 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.524823 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/fence_SM_Fence_a.fbx
+  artifactKey: Guid(abc00000000012472917507813410091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/fence_SM_Fence_a.fbx using Guid(abc00000000012472917507813410091) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '59e32abf57b5e9d9d8eda547fd57edc7') in 0.1578763 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_Seesaw.fbx
+  artifactKey: Guid(abc00000000017800386380458947008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_Seesaw.fbx using Guid(abc00000000017800386380458947008) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a4efb74060b3132acd130a4b06fcdae') in 0.0276605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_TinCans.fbx
+  artifactKey: Guid(abc00000000008542753470281535176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_TinCans.fbx using Guid(abc00000000008542753470281535176) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1eb85ac388b8084effc690b02b60284e') in 0.0322692 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_Wood_SM_Wood_a.fbx
+  artifactKey: Guid(abc00000000009473687011921625206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_Wood_SM_Wood_a.fbx using Guid(abc00000000009473687011921625206) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '781d1bfb23985aa197ad2261fe369afa') in 0.0295278 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_Benchstreet.fbx
+  artifactKey: Guid(abc00000000009244760220519606193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_Benchstreet.fbx using Guid(abc00000000009244760220519606193) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e789f0a53c68bd750f93550f88573f5') in 0.0356046 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_BottlePlastic_SM_PlasticBottle_a.fbx
+  artifactKey: Guid(abc00000000008369233774575801798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_BottlePlastic_SM_PlasticBottle_a.fbx using Guid(abc00000000008369233774575801798) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2cf47ad7213ae205b4a162d00e244aa7') in 0.0325944 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_Bottle.fbx
+  artifactKey: Guid(abc00000000006653112651716556120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_Bottle.fbx using Guid(abc00000000006653112651716556120) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eae61542e21d5a3b26c876bef2cc647b') in 0.0258322 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_FireWood_a.fbx
+  artifactKey: Guid(abc00000000008275501519610840733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_FireWood_a.fbx using Guid(abc00000000008275501519610840733) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '899d8d373115f661deb2260f0546b778') in 0.0286183 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/playset.fbx
+  artifactKey: Guid(abc00000000014481331391965568579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/playset.fbx using Guid(abc00000000014481331391965568579) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aed29a0cffe8baf84437b8e95b4f5c36') in 0.0319296 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_Sandbox.fbx
+  artifactKey: Guid(abc00000000014089655613659932275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_Sandbox.fbx using Guid(abc00000000014089655613659932275) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69d322e5ae125e5ac328800caa75509b') in 0.0429385 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_Sticky_Note_a_SM_Sticky_Note_a.fbx
+  artifactKey: Guid(abc00000000015160468861240522182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_Sticky_Note_a_SM_Sticky_Note_a.fbx using Guid(abc00000000015160468861240522182) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a24fb25d612531df5cbe9b2dbc37417c') in 0.0394037 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_Basketball_Ball_SM_Basketball_Ball.fbx
+  artifactKey: Guid(abc00000000014633803444030162256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_Basketball_Ball_SM_Basketball_Ball.fbx using Guid(abc00000000014633803444030162256) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d749bd5e52d7373bdef4bf215af13b5') in 0.0368658 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_FireWood_c.fbx
+  artifactKey: Guid(abc00000000000262503837682679463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_FireWood_c.fbx using Guid(abc00000000000262503837682679463) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff400148389f3c94d33c8186db43b3c0') in 0.0373258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/PlaygroundApocalypse/Meshes/SM_FireWood_b.fbx
+  artifactKey: Guid(abc00000000006779224465902850972) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Meshes/SM_FireWood_b.fbx using Guid(abc00000000006779224465902850972) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '383919a39246e0c0a825ee7f587c0560') in 0.0372599 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.407258 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/fence_SM_Fence_b.prefab
+  artifactKey: Guid(abc00000000015175244432519554705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/fence_SM_Fence_b.prefab using Guid(abc00000000015175244432519554705) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '426cb160ee8e5dad88e9b5bc9b9a06e5') in 0.025062 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/SM_Bottle.prefab
+  artifactKey: Guid(abc00000000015075306214748042249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/SM_Bottle.prefab using Guid(abc00000000015075306214748042249) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f6a3d36e8d41fbee96944da44ca1ef75') in 0.069872 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/SM_CratesBottle.prefab
+  artifactKey: Guid(abc00000000001082435442621813401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/SM_CratesBottle.prefab using Guid(abc00000000001082435442621813401) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab6ab191bc0088bf1a71d0dfe2a8d018') in 0.0591222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/SM_Roundabout.prefab
+  artifactKey: Guid(abc00000000006614566568764256946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/SM_Roundabout.prefab using Guid(abc00000000006614566568764256946) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6df3a190fe3ede5d7221961ac09685b6') in 0.00788 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/SM_Sandbox.prefab
+  artifactKey: Guid(abc00000000002783196158372999934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/SM_Sandbox.prefab using Guid(abc00000000002783196158372999934) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe5f9ed5d7d516585571a2ec0c5f7a79') in 0.0745402 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/SM_BottlePlastic_SM_PlasticBottle_d.prefab
+  artifactKey: Guid(abc00000000011270719300688649566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/SM_BottlePlastic_SM_PlasticBottle_d.prefab using Guid(abc00000000011270719300688649566) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '46d78badc0b3eb86d67d399868cf7a5c') in 0.0404706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/SM_Sticky_Note_a_SM_Sticky_Note_a.prefab
+  artifactKey: Guid(abc00000000007606099984623075483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/SM_Sticky_Note_a_SM_Sticky_Note_a.prefab using Guid(abc00000000007606099984623075483) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66d405ac10e09954b5da80f97ca1e37b') in 0.0379465 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/playset.prefab
+  artifactKey: Guid(abc00000000009723203999472446724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/playset.prefab using Guid(abc00000000009723203999472446724) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fee99be43725fc2662b004c6ae58d5ed') in 0.042956 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/SM_TrashBag.prefab
+  artifactKey: Guid(abc00000000001508967680770409969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/SM_TrashBag.prefab using Guid(abc00000000001508967680770409969) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '55d6c4e2d6e4084546acbbc2e3e0a655') in 0.0652205 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/PlaygroundApocalypse/Prefabs/SM_TrashCan.prefab
+  artifactKey: Guid(abc00000000017288334805316541557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Prefabs/SM_TrashCan.prefab using Guid(abc00000000017288334805316541557) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a89b679328680c1e56fb1eb8f10c720') in 0.085877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.692889 seconds.
+  path: Assets/PlaygroundApocalypse/Textures/Wood/T_Wood_a_NM.png
+  artifactKey: Guid(abc00000000000727534197840597769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlaygroundApocalypse/Textures/Wood/T_Wood_a_NM.png using Guid(abc00000000000727534197840597769) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8eeab4223d5ba9fbd52863bc6e56e884') in 0.0289349 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
